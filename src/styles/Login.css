@@ -1,0 +1,27 @@
+/* src/styles/Login.css */
+.login-container {
+  max-width: 400px;
+  margin: 50px auto; /* Add some margin on the top */
+  padding: 50px 20px;
+  text-align: center;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.login-logo {
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.login-form {
+  width: 100%;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.login-form-forgot {
+  float: right;
+}
